@@ -16,13 +16,8 @@ exports.seed = function(knex) {
         },
         {
           recipe_id: 1,
-          step_instruction: "Stir often, leave in oven for 30 minutes",
+          step_instruction: "Stir often, leave in oven for 30 minutes & then take out to eat",
           step_number: 3
-        },
-        {
-          recipe_id: 1,
-          step_instruction: "Take out and let it sit for 5 minutes then serve. Enjoy!",
-          step_number: 4
         },
         {
           recipe_id: 2,
